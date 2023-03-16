@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cvsem",
+    "oncran": true
+  },
+  {
+    "package": "stim",
+    "oncran": true
+  }
+]
